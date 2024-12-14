@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cd87f627292c7aea","type":"text","text":"The essentials","x":-370,"y":-124,"width":170,"height":60},
+		{"id":"2af255ab9248cfda","type":"text","text":"Hair\nSalt thrice a week\noil 3x a week\nshampoo after 2 days","x":-495,"y":-320,"width":250,"height":128},
+		{"id":"d2db32422d474b44","type":"text","text":"• Shoes shined and in good repair.\n• Clothes pressed, clean, new, in good condition—no buttons off, no rips, tears, or splits. \n• You are freshly showered, deodorant in place.\n• Hair clean every day—and well cut and styled on a regular and consistent basis.\n• Men shaved—if you have to have facial hair, check for straggly hairs, insects, fluff, or mold.\n• Teeth clean and in good repair, breath fresh, tongue clean (no yellow fur).\n• Nails clean and freshly manicured.\n• Hands clean and no ingrained grime from working on old cars or DIY or gardening—wear thin surgical gloves for all those dirty jobs.\n","x":-940,"y":-480,"width":381,"height":460}
+	],
+	"edges":[
+		{"id":"de67376597ff423a","fromNode":"2af255ab9248cfda","fromSide":"bottom","toNode":"cd87f627292c7aea","toSide":"top"},
+		{"id":"ef235ad94e145285","fromNode":"d2db32422d474b44","fromSide":"right","toNode":"cd87f627292c7aea","toSide":"left"}
+	]
+}

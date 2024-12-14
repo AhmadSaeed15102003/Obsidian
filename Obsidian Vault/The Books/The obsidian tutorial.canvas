@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5f28096513012703","type":"text","text":"this is the first time using\nobsidian","x":-114,"y":48,"width":250,"height":60},
+		{"id":"2603295895f742ee","x":-525,"y":-116,"width":250,"height":60,"type":"text","text":"link the card"},
+		{"id":"99b4e7e1256b5e1e","x":300,"y":-560,"width":400,"height":400,"type":"file","file":"The Books/Pasted image 20241105213511.png"},
+		{"id":"217821265f2f7b68","x":-620,"y":200,"width":400,"height":400,"type":"link","url":"https://elizabethbutlermd.com/obsidian-notes/"}
+	],
+	"edges":[
+		{"id":"8fe54a832eea36e0","fromNode":"2603295895f742ee","fromSide":"right","toNode":"5f28096513012703","toSide":"left","label":"I have  linked it"},
+		{"id":"97eba8b5f8bc728e","fromNode":"5f28096513012703","fromSide":"right","toNode":"99b4e7e1256b5e1e","toSide":"left","label":"I have pasted this  image"},
+		{"id":"0acac60d9a411bb2","fromNode":"217821265f2f7b68","fromSide":"right","toNode":"5f28096513012703","toSide":"bottom","label":"The place where I got \nstumbled over tutorial\nfor obsidian "}
+	]
+}

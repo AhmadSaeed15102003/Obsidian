@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"35fee15348d5d9e8","x":264,"y":-48,"width":176,"height":50,"type":"text","text":"Linear Algebra"},
+		{"id":"f56b37964830d3ac","x":-340,"y":-220,"width":525,"height":818,"type":"text","text":"|**Week**|**Focus Topics**|**Textbook Chapters**|**Activities**|\n|---|---|---|---|\n|**1**|Introduction to Vectors and Vector Spaces|Lay: Chapters 1-2|Watch 3Blue1Brown's introductory videos|\n|**2**|Systems of Linear Equations|Lay: Chapter 3|Practice problems; review Strang's lectures|\n|**3**|Matrix Algebra|Lay: Chapter 4; Singh: Chapter 2|Solve exercises; use online resources for practice|\n|**4**|Vector Spaces|Lay: Chapter 5; Axler: Chapter 1|Work through examples; watch related videos|\n|**5**|Eigenvalues and Eigenvectors|Lay: Chapter 6; Singh: Chapter 4|Solve problems; explore applications in CS|\n|**6**|Inner Product Spaces|Lay: Chapter 7; Axler: Chapter 2|Apply concepts in practical scenarios; review videos|\n|**7**|Applications of Linear Algebra|Review relevant chapters in Lay and Strang|Explore case studies or projects|\n|**8**|Review and Practice|Revisit challenging topics|Take practice exams/quizzes; engage in discussions|"}
+	],
+	"edges":[
+		{"id":"590224db51eb20c0","fromNode":"35fee15348d5d9e8","fromSide":"left","toNode":"f56b37964830d3ac","toSide":"right"}
+	]
+}

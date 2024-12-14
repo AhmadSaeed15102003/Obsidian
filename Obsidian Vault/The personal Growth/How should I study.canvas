@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f2ee9b154497bdfc","x":-433,"y":-260,"width":493,"height":100,"type":"text","text":"Should create time to study The Math problems\n\nShould create time to solve or practice The problems"},
+		{"id":"7ca0385ce823334d","x":-131,"y":-49,"width":151,"height":60,"type":"text","text":"The advice"}
+	],
+	"edges":[
+		{"id":"133c36a0f2fb09df","fromNode":"f2ee9b154497bdfc","fromSide":"bottom","toNode":"7ca0385ce823334d","toSide":"top"}
+	]
+}
